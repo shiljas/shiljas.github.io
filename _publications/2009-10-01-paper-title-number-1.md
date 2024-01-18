@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Investor Attention and Herding in the Cryptocurrency Market During the Covid-19 Pandemic"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This study examines the relationship between investor attention and herding effects in the cryptocurrency market by employing the vector autoregression and quantile regression models. Furthermore, we examine whether the COVID-19 pandemic affected herding behaviour in cryptocurrencies. Using the daily closing price and Google search volume of the five leading cryptocurrencies, the paper finds that herding in the cryptocurrency market decreases with an increase in investor attention for the overall sample. The results for the COVID-19 period indicate that the impact of investor attention on the herding effect decreases due to increased attention to the pandemic. This study is one of the initial attempts to examine the impact of investor attention on herding in cryptocurrencies.'
+date: 2021-09-02
+venue: 'Applied Finance Letters'
+paperurl: 'https://doi.org/10.24135/afl.v10i.448'
+citation: 'Bashir, H. A., Kumar, D., & Shiljas, K. (2021). Investor Attention and Herding in The Cryptocurrency Market during the Covid-19 Pandemic. Applied Finance Letters, 10, 67-77.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This study examines the relationship between investor attention and herding effects in the cryptocurrency market by employing the vector autoregression and quantile regression models. Furthermore, we examine whether the COVID-19 pandemic affected herding behaviour in cryptocurrencies. Using the daily closing price and Google search volume of the five leading cryptocurrencies, the paper finds that herding in the cryptocurrency market decreases with an increase in investor attention for the overall sample. The results for the COVID-19 period indicate that the impact of investor attention on the herding effect decreases due to increased attention to the pandemic. This study is one of the initial attempts to examine the impact of investor attention on herding in cryptocurrencies.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.24135/afl.v10i.448)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Bashir, H. A., Kumar, D., & Shiljas, K. (2021). Investor Attention and Herding in The Cryptocurrency Market during the Covid-19 Pandemic. Applied Finance Letters, 10, 67-77.

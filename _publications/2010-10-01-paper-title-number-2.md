@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "Nexus between Twitter-based sentiment and tourism sector performance amid COVID-19 pandemic"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'The outbreak of the COVID-19 pandemic and the steps taken to contain its spread resulted in a decline in tourism sector stock prices. Using linear and quantile regressions, we examine the impact of Twitter-based investor sentiment for COVID-19 and Twitter-based sentiment towards uncertainty on the performance of tourism stocks. The findings indicate a heterogenous effect of tweets and Twitter economic uncertainty on tourism sector equity returns with a major impact on the lower quantiles.'
+date: 2023-08-27
+venue: 'Tourism Economics'
+paperurl: 'https://doi.org/10.1177/13548166221123102'
+citation: 'Shiljas, K., Kumar, D., & Bashir, H. A. (2023). Nexus between Twitter-based sentiment and tourism sector performance amid COVID-19 pandemic. Tourism Economics, 29(8), 2200-2205.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+The outbreak of the COVID-19 pandemic and the steps taken to contain its spread resulted in a decline in tourism sector stock prices. Using linear and quantile regressions, we examine the impact of Twitter-based investor sentiment for COVID-19 and Twitter-based sentiment towards uncertainty on the performance of tourism stocks. The findings indicate a heterogenous effect of tweets and Twitter economic uncertainty on tourism sector equity returns with a major impact on the lower quantiles.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://doi.org/10.1177/13548166221123102)
+
+Recommended citation: Shiljas, K., Kumar, D., & Bashir, H. A. (2023). Nexus between Twitter-based sentiment and tourism sector performance amid COVID-19 pandemic. Tourism Economics, 29(8), 2200-2205.
