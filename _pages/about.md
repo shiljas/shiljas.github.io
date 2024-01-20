@@ -19,12 +19,13 @@ My research interests also span to:
 
 Thank you for visiting my website. Feel free to delve into my work and reach out to me if you have any questions or if you want to notify me about any open positions in your research team at [shiljas.phd1903@iimkashipur.ac.in](shiljas.phd1903@iimkashipur.ac.in).
 
-**<i>Media</i>**
-------
+<p style="font-size:22px;"><b><i>Media</i></b></p>
+
 * [Interview](https://www.linkedin.com/posts/iimkashipur_phdinsights-scholarstories-iimkashipur-activity-7013112270926811136-UIy9?utm_source=share&utm_medium=member_desktop) with Shiljas, IIM Kashipur doctoral student
 * [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
 
-**<i>Recent Presentations</i>**
-------
+
+<p style="font-size:22px;"><b><i>Recent Presentations</i></b></p>
+
 ![Recent Presentations](/images/conf1.png)
 
