@@ -9,26 +9,29 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         {% unless logo_path == empty %}
-          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt=""></a>
-        {% endunless %}
-        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.masthead_title | default: site.title }}</a>
-        <ul class="visible-links">
-          {%- for link in site.data.navigation.main -%}
-            {%- if link.url contains '://' -%}
-              {%- assign url = link.url -%}
-            {%- else -%}
-              {%- assign url = link.url | relative_url -%}
-            {%- endif -%}
-            <li class="masthead__menu-item">
-              <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-            </li>
-          {%- endfor -%}
-        </ul>
-        {% if site.minimal_mistakes_skin2 %}
-          <button type="button" onclick="node1=document.getElementById('theme_source');node2=document.getElementById('theme_source_2');if(node1.getAttribute('rel')=='stylesheet'){node1.setAttribute('rel', 'stylesheet alternate'); node2.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'dark');}else{node2.setAttribute('rel', 'stylesheet alternate'); node1.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'light');} return false;">
-          <img class="icon" src="/python-for-hpc//images/day_and_night.svg"></path>
-          </button>
-        {% endif %}
+        <a class="site-logo" href="{{ '/' | relative_url }}">
+          <picture>
+            {% unless logo_path_dark == empty %}
+              <!-- dark mode logo -->
+              <source
+                srcset="{{ logo_path_dark | relative_url }}"
+                media="(prefers-color-scheme: dark)">
+            {% endunless %}
+            <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
+          </picture>
+        </a>
+      {% endunless %}
+      <a class="site-title" href="{{ '/' | relative_url }}">
+        {{ site.masthead_title | default: site.title }}
+        {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
+      </a>
+      <ul class="visible-links">
+        {%- for link in site.data.navigation.main -%}
+          <li class="masthead__menu-item">
+            <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+          </li>
+        {%- endfor -%}
+      </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
