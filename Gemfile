@@ -28,4 +28,5 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem 'webrick'
   gem 'jekyll-seo-tag' # SEO
+  gem "jekyll-include-cache"
 end
