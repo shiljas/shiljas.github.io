@@ -14,7 +14,7 @@
   width: 100%;
   +   background: white;  // set a color to hide content that may appear below masthead
   +   height: 85px; // need a magic number here which may break in different viewports
-
+  
   &__inner-wrap {
     @include container;
     @include clearfix;
@@ -39,7 +39,7 @@
 
   ul {
     margin: 0;
-    padding: 85px 0 0;  // padding-top equal to masthead height or greater
+    padding: 0;
     clear: both;
     list-style-type: none;
   }
