@@ -30,7 +30,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 <div>
   <iframe id="IIM Kashipur1"
       title="IIM Kashipur1"
-      width="350"
+      width="375"
       height="405"
       src="https://www.linkedin.com/embed/feed/update/urn:li:share:7013112267705585664">
   </iframe>
@@ -38,6 +38,16 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 
 [Link to view the original post](https://www.linkedin.com/posts/iimkashipur_phdinsights-scholarstories-iimkashipur-activity-7013112270926811136-UIy9?utm_source=share&utm_medium=member_desktop)
 
+
+<div style="position:relative;overflow:hidden;padding-top:56.25%;">
+  <iframe 
+   frameborder="0"
+   style="position:relative;top:0;left:0;width:100%;height:100%;border:0;"
+   src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7143325700194746371"
+  ></iframe>
+</div>
+
+[Link to view the original post](https://www.linkedin.com/posts/shiljas_corporate-sustainability-academics-activity-7143325700194746371-FmHT?utm_source=share&utm_medium=member_desktop)
 
 * [Interview](https://www.linkedin.com/posts/iimkashipur_phdinsights-scholarstories-iimkashipur-activity-7013112270926811136-UIy9?utm_source=share&utm_medium=member_desktop) with Shiljas, IIM Kashipur doctoral student
 * [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
