@@ -27,28 +27,35 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 [Link to view the original post](https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop)
 
 <div>
-  <iframe 
-   frameborder="0"
-   style="position:relative;top:0;left:0;width:100%;height:100%;border:0;"
-   src="https://www.linkedin.com/embed/feed/update/urn:li:share:7013112267705585664"
-  ></iframe>
+  <iframe id="IIM Kashipur1"
+      title="IIM Kashipur1"
+      width="375"
+      height="405"
+      src="https://www.linkedin.com/embed/feed/update/urn:li:share:7013112267705585664">
+  </iframe>
 </div>
 
 [Link to view the original post](https://www.linkedin.com/posts/iimkashipur_phdinsights-scholarstories-iimkashipur-activity-7013112270926811136-UIy9?utm_source=share&utm_medium=member_desktop)
 
 
 <div>
-  <iframe 
-   frameborder="0"
-   style="position:relative;top:0;left:0;width:100%;height:100%;border:0;"
-   src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7143325700194746371"
-  ></iframe>
+  <iframe id="IIM Kashipur1"
+      title="IIM Kashipur1"
+      width="375"
+      height="405"
+      src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7143325700194746371">
+  </iframe>
 </div>
 
 [Link to view the original post](https://www.linkedin.com/posts/shiljas_corporate-sustainability-academics-activity-7143325700194746371-FmHT?utm_source=share&utm_medium=member_desktop)
 
 <div>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7152736793140887552" postion= "relative" height="685" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+  <iframe id="IIM Kashipur1"
+      title="IIM Kashipur1"
+      width="375"
+      height="405"
+      src="https://www.linkedin.com/embed/feed/update/urn:li:share:7152736793140887552">
+  </iframe>
 </div>
 
 [Link to view the original post](https://www.linkedin.com/posts/shiljas_iimkashipur-activity-7152736793979748353-YJo0?utm_source=share&utm_medium=member_desktop)
