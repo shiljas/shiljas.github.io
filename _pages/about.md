@@ -39,7 +39,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 [Link to view the original post](https://www.linkedin.com/posts/iimkashipur_phdinsights-scholarstories-iimkashipur-activity-7013112270926811136-UIy9?utm_source=share&utm_medium=member_desktop)
 
 
-<div style="position:relative;overflow:hidden;padding-top:56.25%;">
+<div>
   <iframe 
    frameborder="0"
    style="position:relative;top:0;left:0;width:100%;height:100%;border:0;"
