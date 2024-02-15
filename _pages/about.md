@@ -30,6 +30,8 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 <div>
   <iframe id="IIM Kashipur1"
       title="IIM Kashipur1"
+      width="405"
+      height="405"
       src="https://www.linkedin.com/embed/feed/update/urn:li:share:7013112267705585664">
   </iframe>
 </div>
