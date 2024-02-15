@@ -21,18 +21,20 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 
 **<i>Media</i>**
 ------
-<div>
-  <iframe id="BAM Workshop"
-      title="BAM Workshop"
-      src="https://www.linkedin.com/embed/feed/update/urn:li:share:7021155909896671232">
-  </iframe>
-</div>
-
 <a href= "https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop">
 <img src="/images/BAM_Pre_Conf_Workshop.png" width="504" height="405"> </a>
 
 [Link to view the original post](https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop)
 
+
+<div>
+  <iframe id="IIM Kashipur1"
+      title="IIM Kashipur1"
+      src="https://www.linkedin.com/embed/feed/update/urn:li:share:7013112267705585664">
+  </iframe>
+</div>
+
+[Link to view the original post](https://www.linkedin.com/posts/iimkashipur_phdinsights-scholarstories-iimkashipur-activity-7013112270926811136-UIy9?utm_source=share&utm_medium=member_desktop)
 
 
 * [Interview](https://www.linkedin.com/posts/iimkashipur_phdinsights-scholarstories-iimkashipur-activity-7013112270926811136-UIy9?utm_source=share&utm_medium=member_desktop) with Shiljas, IIM Kashipur doctoral student
