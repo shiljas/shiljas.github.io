@@ -21,10 +21,13 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 
 **<i>Media</i>**
 ------
-<div style="position:relative;overflow:hidden;padding-top:56.25%;">
-  <iframe
-    src="https://www.linkedin.com/embed/feed/update/urn:li:share:7021155909896671232" height="405" width="504" frameborder="0" allowfullscreen="" title="LinkedIn">
-    </iframe>
+<div>
+  <iframe id="BAM Workshop"
+      title="BAM Workshop"
+      width="504"
+      height="405"
+      src="https://www.linkedin.com/embed/feed/update/urn:li:share:7021155909896671232">
+  </iframe>
 </div>
 
 [Direct Link to the post](https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop)
