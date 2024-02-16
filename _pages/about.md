@@ -46,7 +46,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   </iframe>
 </div>
 
-* British Accounting & Finance (BAFA) Conference
+* British Accounting & Finance Association (BAFA) Conference
 [View the post](https://www.linkedin.com/posts/shiljas_corporate-sustainability-academics-activity-7143325700194746371-FmHT?utm_source=share&utm_medium=member_desktop)
 
 <div>
