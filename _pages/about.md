@@ -60,8 +60,18 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 
 * University of Bath School of Management [View the post](https://www.linkedin.com/posts/shiljas_iimkashipur-activity-7152736793979748353-YJo0?utm_source=share&utm_medium=member_desktop)
 
-* **Blog**
-: [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
+<div>
+  <iframe id="IIM Kashipur2"
+      title="IIM Kashipur2"
+      width="375"
+      height="405"
+      src="https://www.linkedin.com/embed/feed/update/urn:li:share:7162831726942048257">
+  </iframe>
+</div>
+
+* Birkbeck Business School, University of London [View the post](https://www.linkedin.com/posts/iimkashipur_delighted-award-outstanding-activity-7162831729618014208-52Tw?utm_source=share&utm_medium=member_desktop)
+
+* **Blog** [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
 
 
 **<i>Recent Presentations</i>**
