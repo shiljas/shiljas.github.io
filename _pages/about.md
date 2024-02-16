@@ -24,7 +24,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 <a href= "https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop">
 <img src="/images/BAM_Pre_Conf_Workshop.png" width="504" height="405"> </a>
 
-[Link to view the original post](https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop)
+* British Academy of Management (BAM) Workshop [View the post](https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop)
 
 <div>
   <iframe id="IIM Kashipur1"
@@ -35,8 +35,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   </iframe>
 </div>
 
-[Link to view the original post](https://www.linkedin.com/posts/iimkashipur_phdinsights-scholarstories-iimkashipur-activity-7013112270926811136-UIy9?utm_source=share&utm_medium=member_desktop)
-
+* [Interview](https://www.linkedin.com/posts/iimkashipur_phdinsights-scholarstories-iimkashipur-activity-7013112270926811136-UIy9?utm_source=share&utm_medium=member_desktop) with Shiljas, IIM Kashipur doctoral student
 
 <div>
   <iframe id="IIM Kashipur1"
@@ -47,7 +46,8 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   </iframe>
 </div>
 
-[Link to view the original post](https://www.linkedin.com/posts/shiljas_corporate-sustainability-academics-activity-7143325700194746371-FmHT?utm_source=share&utm_medium=member_desktop)
+* British Accounting & Finance (BAFA) Conference
+[View the post](https://www.linkedin.com/posts/shiljas_corporate-sustainability-academics-activity-7143325700194746371-FmHT?utm_source=share&utm_medium=member_desktop)
 
 <div>
   <iframe id="IIM Kashipur1"
@@ -58,10 +58,10 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   </iframe>
 </div>
 
-[Link to view the original post](https://www.linkedin.com/posts/shiljas_iimkashipur-activity-7152736793979748353-YJo0?utm_source=share&utm_medium=member_desktop)
+* University of Bath School of Management [View the post](https://www.linkedin.com/posts/shiljas_iimkashipur-activity-7152736793979748353-YJo0?utm_source=share&utm_medium=member_desktop)
 
-* [Interview](https://www.linkedin.com/posts/iimkashipur_phdinsights-scholarstories-iimkashipur-activity-7013112270926811136-UIy9?utm_source=share&utm_medium=member_desktop) with Shiljas, IIM Kashipur doctoral student
-* [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
+* **Blog**
+: [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
 
 
 **<i>Recent Presentations</i>**
