@@ -117,6 +117,35 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
     </div>
     </div>
     </div>
+    <div
+    container="position: relative;
+    width:1100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 30px;
+    margin-top: 8%;">
+    <div
+    container.card="
+    width:308px;
+    position: relative;
+    height: 400px;
+    background: #f0f0f0;
+    margin:30px 10px;
+    padding: 20px 15px;
+    display:flex;
+    flex-direction: column;
+    box-shadow: 0.5px 10px #e6e6e6;
+    transition:0.3s ease-in-out;
+    margin-top: 5%;">
+    <a src="https://www.linkedin.com/embed/feed/update/urn:li:share:7162831726942048257">
+    </a>
+    <h2>BAM
+    </h2>
+    </div>
+    </div>
+
 
 * **Blog** [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
 
