@@ -38,6 +38,17 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 * [Interview](https://www.linkedin.com/posts/iimkashipur_phdinsights-scholarstories-iimkashipur-activity-7013112270926811136-UIy9?utm_source=share&utm_medium=member_desktop) with Shiljas, IIM Kashipur doctoral student
 
 <div>
+  <iframe id="Conf1"
+      title="Conf1"
+      width="375"
+      height="405"
+      src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7137806825046917120">
+  </iframe>
+</div>
+
+* Birkbeck Business School, University of London [View the post](https://www.linkedin.com/posts/shiljas_sustainability-sustainability-activity-7137806825046917120-ack0?utm_source=share&utm_medium=member_desktop)
+
+<div>
   <iframe id="IIM Kashipur1"
       title="IIM Kashipur1"
       width="375"
@@ -70,82 +81,6 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 </div>
 
 * Birkbeck Business School, University of London [View the post](https://www.linkedin.com/posts/iimkashipur_delighted-award-outstanding-activity-7162831729618014208-52Tw?utm_source=share&utm_medium=member_desktop)
-
-
-<div
-    container="position: relative;
-    width:1100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    padding: 30px;
-    margin-top: 8%;">
-    <div
-    container.card="
-    width:308px;
-    position: relative;
-    height: 400px;
-    background: #f0f0f0;
-    margin:30px 10px;
-    padding: 20px 15px;
-    display:flex;
-    flex-direction: column;
-    box-shadow: 0.5px 10px #e6e6e6;
-    transition:0.3s ease-in-out;
-    margin-top: 5%;">
-    <div
-    container.card.imgBx="
-    position: relative;
-    width:260px;
-    height: 260px;
-    top: -60px;
-    left:20px;
-    box-shadow: 0 5px 20px rbga (0,0,0,1.2);">
-    <div container.card.imgBx img =
-    "max-width: 100%;
-    border-radius: 10px;">
-    <div imgBx:hover img="
-    transform: scale(1.1);">
-    <a href= "https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop">
-    <img src="/images/BAM_Pre_Conf_Workshop_2.png">
-    </a>
-    <h2>BAM
-    </h2>
-    </div>
-    </div>
-    </div>
-    </div>
-    </div>
-    <div
-    container="position: relative;
-    width:1100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    padding: 30px;
-    margin-top: 8%;">
-    <div
-    container.card="
-    width:308px;
-    position: relative;
-    height: 400px;
-    background: #f0f0f0;
-    margin:30px 10px;
-    padding: 20px 15px;
-    display:flex;
-    flex-direction: column;
-    box-shadow: 0.5px 10px #e6e6e6;
-    transition:0.3s ease-in-out;
-    margin-top: 5%;">
-    <a src="https://www.linkedin.com/embed/feed/update/urn:li:share:7162831726942048257">
-    </a>
-    <h2>BAM
-    </h2>
-    </div>
-    </div>
-
 
 * **Blog** [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
 
