@@ -71,6 +71,46 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 
 * Birkbeck Business School, University of London [View the post](https://www.linkedin.com/posts/iimkashipur_delighted-award-outstanding-activity-7162831729618014208-52Tw?utm_source=share&utm_medium=member_desktop)
 
+
+<div
+    container="position: relative;
+    width:1100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 30px;
+    margin-top: 8%;">
+    <div
+    container.card="
+    width:308px;
+    position: relative;
+    height: 400px;
+    background: #f0f0f0;
+    margin:30px 10px;
+    padding: 20px 15px;
+    display:flex;
+    flex-direction: column;
+    box-shadow: 0.5px 10px #e6e6e6;
+    transition:0.3s ease-in-out;
+    margin-top: 5%;">
+    <div
+    container.card.imgBx="
+    position: relative;
+    width:260px;
+    height: 260px;
+    top: -60px;
+    left:20px;
+    box-shadow: 0 5px 20px rbga (0,0,0,1.2);">
+    <a href= "https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop">
+    <img src="/images/BAM_Pre_Conf_Workshop.png">
+    </a>
+    <h2>BAM
+    </h2>
+    </div>
+    </div>
+    </div>
+
 * **Blog** [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
 
 
