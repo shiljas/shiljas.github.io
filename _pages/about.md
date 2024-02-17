@@ -102,6 +102,11 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
     top: -60px;
     left:20px;
     box-shadow: 0 5px 20px rbga (0,0,0,1.2);">
+    <div container.card.imgBx img =
+    "max-width: 100%;
+    border-radius: 10px;">
+    <div imgBx:hover img="
+    transform: scale(1.1);">
     <a href= "https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop">
     <img src="/images/BAM_Pre_Conf_Workshop.png">
     </a>
