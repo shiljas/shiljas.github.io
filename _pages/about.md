@@ -21,7 +21,15 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 
 **<i>Media</i>**
 ------
-  <head>
+
+
+<a href= "https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop">
+<img src="/images/BAM_Pre_Conf_Workshop.png" width="504" height="405"> </a>
+
+* British Academy of Management (BAM) Workshop [View the post](https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop)
+
+<html>
+<head>
     <title>Title of the document</title>
     <style>
       .wrap-element {
@@ -44,20 +52,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
       <iframe class="wrapped-iframe" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7013112267705585664" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
   </body>
-  
-<a href= "https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop">
-<img src="/images/BAM_Pre_Conf_Workshop.png" width="504" height="405"> </a>
-
-* British Academy of Management (BAM) Workshop [View the post](https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop)
-
-<div>
-  <iframe id="IIM Kashipur1"
-      title="IIM Kashipur1"
-      width="375"
-      height="405"
-      src="https://www.linkedin.com/embed/feed/update/urn:li:share:7013112267705585664">
-  </iframe>
-</div>
+</html>
 
 * [Interview](https://www.linkedin.com/posts/iimkashipur_phdinsights-scholarstories-iimkashipur-activity-7013112270926811136-UIy9?utm_source=share&utm_medium=member_desktop) with Shiljas, IIM Kashipur doctoral student
 
