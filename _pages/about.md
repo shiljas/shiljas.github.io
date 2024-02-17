@@ -108,7 +108,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
     <div imgBx:hover img="
     transform: scale(1.1);">
     <a href= "https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop">
-    <img src="/images/BAM_Pre_Conf_Workshop.png">
+    <img src="/images/BAM_Pre_Conf_Workshop_2.png">
     </a>
     <h2>BAM
     </h2>
@@ -117,7 +117,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
     </div>
     </div>
     </div>
-    
+
 * **Blog** [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
 
 
