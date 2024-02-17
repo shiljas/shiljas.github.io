@@ -56,48 +56,116 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 
 * [Interview](https://www.linkedin.com/posts/iimkashipur_phdinsights-scholarstories-iimkashipur-activity-7013112270926811136-UIy9?utm_source=share&utm_medium=member_desktop) with Shiljas, IIM Kashipur doctoral student
 
-<div>
-  <iframe id="Conf1"
-      title="Conf1"
-      width="375"
-      height="405"
-      src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7137806825046917120">
-  </iframe>
-</div>
+<html>
+<head>
+    <title>Title of the document</title>
+    <style>
+      .wrap-element {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+      }
+      .wrapped-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap-element">
+      <iframe class="wrapped-iframe" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7137806825046917120" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+  </body>
+</html>
 
 * Birkbeck Business School, University of London [View the post](https://www.linkedin.com/posts/shiljas_sustainability-sustainability-activity-7137806825046917120-ack0?utm_source=share&utm_medium=member_desktop)
 
-<div>
-  <iframe id="IIM Kashipur1"
-      title="IIM Kashipur1"
-      width="375"
-      height="405"
-      src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7143325700194746371">
-  </iframe>
-</div>
+<html>
+<head>
+    <title>Title of the document</title>
+    <style>
+      .wrap-element {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+      }
+      .wrapped-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap-element">
+      <iframe class="wrapped-iframe" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7143325700194746371" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+  </body>
+</html>
 
 * British Accounting & Finance Association (BAFA) Conference
 [View the post](https://www.linkedin.com/posts/shiljas_corporate-sustainability-academics-activity-7143325700194746371-FmHT?utm_source=share&utm_medium=member_desktop)
 
-<div>
-  <iframe id="IIM Kashipur1"
-      title="IIM Kashipur1"
-      width="375"
-      height="405"
-      src="https://www.linkedin.com/embed/feed/update/urn:li:share:7152736793140887552">
-  </iframe>
-</div>
+<html>
+<head>
+    <title>Title of the document</title>
+    <style>
+      .wrap-element {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+      }
+      .wrapped-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap-element">
+      <iframe class="wrapped-iframe" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7152736793140887552" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+  </body>
+</html>
 
 * University of Bath School of Management [View the post](https://www.linkedin.com/posts/shiljas_iimkashipur-activity-7152736793979748353-YJo0?utm_source=share&utm_medium=member_desktop)
 
-<div>
-  <iframe id="IIM Kashipur2"
-      title="IIM Kashipur2"
-      width="375"
-      height="405"
-      src="https://www.linkedin.com/embed/feed/update/urn:li:share:7162831726942048257">
-  </iframe>
-</div>
+<html>
+<head>
+    <title>Title of the document</title>
+    <style>
+      .wrap-element {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+      }
+      .wrapped-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap-element">
+      <iframe class="wrapped-iframe" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7162831726942048257" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+  </body>
+</html>
 
 * Birkbeck Business School, University of London [View the post](https://www.linkedin.com/posts/iimkashipur_delighted-award-outstanding-activity-7162831729618014208-52Tw?utm_source=share&utm_medium=member_desktop)
 
