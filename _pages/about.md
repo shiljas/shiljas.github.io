@@ -225,7 +225,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
     background-repeat:no-repeat;
   }
   .slideshowArrow {
-  font-size: 7em;
+  font-size: 3em;
   color: rgba(255, 255, 255, 0.5);
   cursor: pointer;
   transition: opacity 0.2s ease-in-out;
@@ -245,7 +245,6 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   top: 50%;
   transform: translate(50%, -50%);
 }
-
   .paginglist {text-align:center;padding:30px 0;}
   .paginglist > li {display:inline-block;vertical-align:middle;margin:0 10px;}
   .paginglist > li > label {display:block;padding:10px 30px;border-radius:10px;background:#ccc;cursor:pointer;}
