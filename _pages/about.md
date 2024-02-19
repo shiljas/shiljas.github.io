@@ -224,6 +224,12 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
     background-size:50%;
     background-repeat:no-repeat;
   }
+  .slideshowArrow {
+  font-size: 7em;
+  color: rgba(255, 255, 255, 0.5);
+  cursor: pointer;
+  transition: opacity 0.2s ease-in-out;
+}
   .slideshowArrow:hover {
   opacity: 0.75;
 }
