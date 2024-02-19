@@ -422,7 +422,7 @@ Make sure you match the number of these 'circle' span elements to the number of 
   border: solid 2px rgba(255, 255, 255, 0.5);
 }
   </style>
-  <script>
+  <script
     // IMAGE SLIDES & CIRCLES ARRAYS, & COUNTER
 var imageSlides = document.getElementsByClassName('imageSlides');
 var circles = document.getElementsByClassName('circle');
@@ -497,4 +497,4 @@ function slideshow() {
 // SHOW FIRST IMAGE, & THEN SET & CALL SLIDE INTERVAL
 setTimeout(slideshow, 1000);
 var imageSlideshowInterval = setInterval(slideshow, 10000);
-    </script>
+    ></script>
