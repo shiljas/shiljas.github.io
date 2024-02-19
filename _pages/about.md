@@ -197,7 +197,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
     display:inline-block;
     vertical-align:middle;
     width:100%;
-    transition:all .20s;
+    transition:all .1s;
   }
   .slidebox .slideitem label {
     position:absolute;
