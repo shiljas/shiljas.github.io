@@ -225,7 +225,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
     background-repeat:no-repeat;
   }
   
-  /* 페이징 스타일 */
+
   .paginglist {text-align:center;padding:30px 0;}
   .paginglist > li {display:inline-block;vertical-align:middle;margin:0 10px;}
   .paginglist > li > label {display:block;padding:10px 30px;border-radius:10px;background:#ccc;cursor:pointer;}
@@ -292,28 +292,28 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
         <div>
           <label for="slide04" class="left"></label>
           <label for="slide02" class="right"></label>
-          <a><img src="/assets/images/conf_1.jpg"></a>
+          <a><img src="/images/conf_1.png"></a>
         </div>
       </li>
       <li class="slideitem">
         <div>
           <label for="slide01" class="left"></label>
           <label for="slide03" class="right"></label>
-          <a><img src="/assets/images/conf_2.jpg"></a>
+          <a><img src="/images/conf_2.png"></a>
         </div>
       </li>
       <li class="slideitem">
         <div>
           <label for="slide02" class="left"></label>
           <label for="slide04" class="right"></label>
-          <a><img src="/assets/images/conf_3.jpg"></a>
+          <a><img src="/images/conf_3.png"></a>
         </div>
       </li>
       <li class="slideitem">
         <div>
           <label for="slide03" class="left"></label>
           <label for="slide01" class="right"></label>
-          <a><img src="/assets/images/conf_3.jpg"></a>
+          <a><img src="/images/conf_3.png"></a>
         </div>
       </li>
     </ul>
