@@ -181,7 +181,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   ul, li {list-style:none;}
   
   [name="slide"] {display:none;}
-  .slidebox {max-width:500px;width:100%;margin: 10px; float:right; text-align:center;}
+  .slidebox {max-width:500px;width:100%;margin: 10px; float:left; text-align:center;}
   .slidebox img {max-width:100%;}
   .slidebox .slidelist {
     white-space:nowrap;
