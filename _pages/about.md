@@ -210,7 +210,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   }
   label.left {
     left:20px;
-    background-color:	#dd99bb 20%;
+    background-color:	#dd99bb;
     background-image:url('/assets/images/left-arrow.png');
     background-position:center center;
     background-size:50%;
@@ -218,7 +218,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   }
   label.right {
     right:20px;
-    background-color:	#dd99bb 20%;
+    background-color:	#dd99bb;
     background-image:url('/assets/images/right-arrow.png');
     background-position:center center;
     background-size:50%;
