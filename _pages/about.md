@@ -211,7 +211,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   label.left {
     left:20px;
     background-color:#eaeaea 20%;
-    background-image:url('/assets/images/left-arrow.png');
+    background-image:url('/assets/images/double-arrow.png');
     background-position:center center;
     background-size:50%;
     background-repeat:no-repeat;
@@ -219,7 +219,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   label.right {
     right:20px;
     background-color:#eaeaea 20%;
-    background-image:url('/assets/images/right-arrow.png');
+    background-image:url('/assets/images/double-arrow.png');
     background-position:center center;
     background-size:50%;
     background-repeat:no-repeat;
