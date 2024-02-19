@@ -210,16 +210,16 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   }
   label.left {
     left:20px;
-    background-color:#eaeaea;
-    background-image:url('/assets/images/double-arrow.png');
+    background-color:#eaeaea 20%;
+    background-image:url('/assets/images/arrow/left-arrow.png');
     background-position:center center;
     background-size:50%;
     background-repeat:no-repeat;
   }
   label.right {
     right:20px;
-    background-color:#eaeaea;
-    background-image:url('/assets/images/double-arrow.png');
+    background-color:#eaeaea 20%;
+    background-image:url('/assets/images/arrow/left-arrow.png');
     background-position:center center;
     background-size:50%;
     background-repeat:no-repeat;
