@@ -174,14 +174,14 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 
 **<i>Recent Presentations</i>**
 ------
-![Recent Presentations](/images/conf1.png)
+
 
 <style>
   * {margin:0;padding:0;box-sizing:border-box;}
   ul, li {list-style:none;}
   
   [name="slide"] {display:none;}
-  .slidebox {max-width:500px;width:100%;margin: 10px; float:center; text-align:center;}
+  .slidebox {max-width:500px;width:100%;margin: 10px; float:right; text-align:center;}
   .slidebox img {max-width:100%;}
   .slidebox .slidelist {
     white-space:nowrap;
