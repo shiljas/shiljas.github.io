@@ -21,28 +21,12 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 
 **<i>Research</i>**
 -------
-<html>
-<img class=mobile-image src="https://journals.sagepub.com/cms/10.1177/TEUA_29_8/asset/18bd114d-4518-d114-6451-bd114d64518b/teua_29_8.cover.png"/>
-<img class=mobile-image src="https://ojs.aut.ac.nz/applied-finance-letters/public/journals/1/cover_issue_16_en_US.jpg"/>
 
-<style>
-  .img {
-    display: inline-block;
-  }
-  img.mobile-image {
-	width: 49%;
-    display: inline-block;
-  }
-</style>
-</html>
+<img align="centre" width="150" height="200" src="https://journals.sagepub.com/cms/10.1177/TEUA_29_8/asset/18bd114d-4518-d114-6451-bd114d64518b/teua_29_8.cover.png">
+<img align="centre" width="150" height="200" src="/images/TE.png">
+<img align="centre" width="150" height="200" src="https://ojs.aut.ac.nz/applied-finance-letters/public/journals/1/cover_issue_16_en_US.jpg">
+<img align="centre" width="150" height="200" src="/images/AFL.png">
 
-<img align="centre" width="100" height="150" src="https://journals.sagepub.com/cms/10.1177/TEUA_29_8/asset/18bd114d-4518-d114-6451-bd114d64518b/teua_29_8.cover.png">
-<img align="centre" width="100" height="150" src="/images/TE.png">
-<img align="centre" width="100" height="150" src="https://ojs.aut.ac.nz/applied-finance-letters/public/journals/1/cover_issue_16_en_US.jpg">
-<img align="centre" width="100" height="150" src="/images/AFL.png">
-
-[Read paper here](https://doi.org/10.1177/13548166221123102)      
-[Read paper here](https://doi.org/10.24135/afl.v10i.448)
 
 
 **<i>Media</i>**
