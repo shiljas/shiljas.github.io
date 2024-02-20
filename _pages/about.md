@@ -37,15 +37,12 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 
 **<i>Media</i>**
 ------
-<html>
-<body>
 <a href= "https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop">
 <img src="/images/BAM_Pre_Conf_Workshop.png" width="504" height="405"> </a>
 
 * British Academy of Management (BAM) Workshop [View the post](https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop)
 
-</html>
-</body>
+
 
 <html>
 <head>
