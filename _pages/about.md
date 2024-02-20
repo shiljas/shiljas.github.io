@@ -236,7 +236,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   }
   .slideshowArrow {
   font-size: 3em;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 125, 152, 1);
   cursor: pointer;
   transition: opacity 0.2s ease-in-out;
 }
