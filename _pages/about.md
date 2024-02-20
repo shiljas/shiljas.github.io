@@ -19,9 +19,34 @@ My research interests also span to:
 
 Thank you for visiting my website. Feel free to delve into my work and reach out to me if you have any questions or if you want to notify me about any open positions in your research team at [shiljas.phd1903@iimkashipur.ac.in](shiljas.phd1903@iimkashipur.ac.in).
 
+**<i>Research</i>**
+-------
+<html>
+<img class=mobile-image src="https://journals.sagepub.com/cms/10.1177/TEUA_29_8/asset/18bd114d-4518-d114-6451-bd114d64518b/teua_29_8.cover.png"/>
+<img class=mobile-image src="https://ojs.aut.ac.nz/applied-finance-letters/public/journals/1/cover_issue_16_en_US.jpg"/>
+
+<style>
+  .img {
+    display: inline-block;
+  }
+  img.mobile-image {
+	width: 49%;
+    display: inline-block;
+  }
+</style>
+</html>
+
+<img align="centre" width="100" height="150" src="https://journals.sagepub.com/cms/10.1177/TEUA_29_8/asset/18bd114d-4518-d114-6451-bd114d64518b/teua_29_8.cover.png">
+<img align="centre" width="100" height="150" src="/images/TE.png">
+<img align="centre" width="100" height="150" src="https://ojs.aut.ac.nz/applied-finance-letters/public/journals/1/cover_issue_16_en_US.jpg">
+<img align="centre" width="100" height="150" src="/images/AFL.png">
+
+[Read paper here](https://doi.org/10.1177/13548166221123102)      
+[Read paper here](https://doi.org/10.24135/afl.v10i.448)
+
+
 **<i>Media</i>**
 ------
-
 
 <a href= "https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop">
 <img src="/images/BAM_Pre_Conf_Workshop.png" width="504" height="405"> </a>
@@ -170,6 +195,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 * Birkbeck Business School, University of London [View the post](https://www.linkedin.com/posts/iimkashipur_delighted-award-outstanding-activity-7162831729618014208-52Tw?utm_source=share&utm_medium=member_desktop)
 
 * **Blog** [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
+
 
 
 **<i>Recent Presentations</i>**
