@@ -72,6 +72,8 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 
 * [Interview](https://www.linkedin.com/posts/iimkashipur_phdinsights-scholarstories-iimkashipur-activity-7013112270926811136-UIy9?utm_source=share&utm_medium=member_desktop) with Shiljas, IIM Kashipur doctoral student
 
+
+
 <html>
 <head>
     <title>Title of the document</title>
@@ -99,6 +101,8 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 </html>
 
 * Birkbeck Business School, University of London [View the post](https://www.linkedin.com/posts/shiljas_sustainability-sustainability-activity-7137806825046917120-ack0?utm_source=share&utm_medium=member_desktop)
+
+
 
 <html>
 <head>
@@ -129,6 +133,8 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 * British Accounting & Finance Association (BAFA) Conference
 [View the post](https://www.linkedin.com/posts/shiljas_corporate-sustainability-academics-activity-7143325700194746371-FmHT?utm_source=share&utm_medium=member_desktop)
 
+
+
 <html>
 <head>
     <title>Title of the document</title>
@@ -157,6 +163,8 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 
 * University of Bath School of Management [View the post](https://www.linkedin.com/posts/shiljas_iimkashipur-activity-7152736793979748353-YJo0?utm_source=share&utm_medium=member_desktop)
 
+
+
 <html>
 <head>
     <title>Title of the document</title>
@@ -184,6 +192,8 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 </html>
 
 * Birkbeck Business School, University of London [View the post](https://www.linkedin.com/posts/iimkashipur_delighted-award-outstanding-activity-7162831729618014208-52Tw?utm_source=share&utm_medium=member_desktop)
+
+
 
 * **Blog** [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
 
