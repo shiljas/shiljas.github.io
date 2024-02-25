@@ -187,7 +187,7 @@
       display: block;
       margin: 0 1rem;
       padding: 0.5rem 0;
-      color: #ebebeb;
+      color: #050404;
       text-decoration: none;
   
       &:hover {
@@ -238,7 +238,7 @@
           left: 0;
           bottom: 0;
           height: 4px;
-          background: mix( #00a087, $primary-color, 50%);
+          background: mix(#fff, $primary-color, 50%);
           width: 100%;
           -webkit-transition: $global-transition;
           transition: $global-transition;
