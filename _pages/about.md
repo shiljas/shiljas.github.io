@@ -34,7 +34,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 <img align="centre" width="160" height="210" src="/images/AFL.png">
 
 
-<figure class="half" style="width: 160px" class="align-right">
+<figure class="half" style="width: 160px" class="align-centre">
   <a href="/weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8170-1v (21. Feb. 2021).jpg">
   <img src="https://journals.sagepub.com/cms/10.1177/TEUA_29_8/asset/18bd114d-4518-d114-6451-bd114d64518b/teua_29_8.cover.png"></a>
   <figcaption>Scan.</figcaption>
