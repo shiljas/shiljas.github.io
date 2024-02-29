@@ -38,7 +38,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 ------
 
 <a href= "https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop">
-<img style="border: 12px Solid #55acee" src="/images/BAM_Pre_Conf_Workshop.png" width="504" height="405" > </a>
+<img style="border: 12px Solid #007bb6" src="/images/BAM_Pre_Conf_Workshop.png" width="504" height="405" > </a>
 
 
 
@@ -67,7 +67,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   </head>
   <body>
     <div class="wrap-element">
-      <iframe class="wrapped-iframe" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7013112267705585664" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7013112267705585664" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
   </body>
 </html>
@@ -97,7 +97,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   </head>
   <body>
     <div class="wrap-element">
-      <iframe class="wrapped-iframe" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7137806825046917120" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7137806825046917120" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
   </body>
 </html>
@@ -127,7 +127,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   </head>
   <body>
     <div class="wrap-element">
-      <iframe class="wrapped-iframe" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7143325700194746371" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7143325700194746371" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
   </body>
 </html>
@@ -158,7 +158,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   </head>
   <body>
     <div class="wrap-element">
-      <iframe class="wrapped-iframe" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7152736793140887552" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7152736793140887552" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
   </body>
 </html>
@@ -188,7 +188,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   </head>
   <body>
     <div class="wrap-element">
-      <iframe class="wrapped-iframe" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7162831726942048257" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7162831726942048257" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
   </body>
 </html>
