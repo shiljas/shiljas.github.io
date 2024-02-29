@@ -29,15 +29,15 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 -------
 
 <img align="centre" width="160" height="210" src="https://journals.sagepub.com/cms/10.1177/TEUA_29_8/asset/18bd114d-4518-d114-6451-bd114d64518b/teua_29_8.cover.png">
-<kbd> <img align="centre" style="border: 6px solid white" width="160" height="210" src="/images/TE_2023.png"></kbd>
+<kbd> <img align="centre" style="border: 12px solid white" width="160" height="210" src="/images/TE_2023.png"></kbd>
 <img align="centre" width="160" height="210" src="https://ojs.aut.ac.nz/applied-finance-letters/public/journals/1/cover_issue_16_en_US.jpg">
-<kbd> <img align="centre" style="border: 6px solid white" width="160" height="210" src="/images/AFL_2021.png"></kbd>
+<kbd> <img align="centre" style="border: 12px solid white" width="160" height="210" src="/images/AFL_2021.png"></kbd>
 
 
 **<i>Media</i>**
 ------
 <a href= "https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop">
-<img src="/images/BAM_Pre_Conf_Workshop.png" width="504" height="405"> </a>
+<kbd><img src="/images/BAM_Pre_Conf_Workshop.png" width="504" height="405"></kbd> </a>
 
 * British Academy of Management (BAM) Workshop [View the post](https://www.linkedin.com/posts/shiljas_getting-feedback-from-professor-mairi-maclean-activity-7021156538962620416-d0un?utm_source=share&utm_medium=member_desktop)
 
