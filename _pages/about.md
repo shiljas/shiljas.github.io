@@ -29,9 +29,9 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
 -------
 
 <img align="centre" width="160" height="210" src="https://journals.sagepub.com/cms/10.1177/TEUA_29_8/asset/18bd114d-4518-d114-6451-bd114d64518b/teua_29_8.cover.png">
-<img align="centre" width="160" height="210" src="/images/TE_2023.png">
+<kbd> <img align="centre" style="border: 6px solid white" width="160" height="210" src="/images/TE_2023.png"></kbd>
 <img align="centre" width="160" height="210" src="https://ojs.aut.ac.nz/applied-finance-letters/public/journals/1/cover_issue_16_en_US.jpg">
-<img align="centre" width="160" height="210" src="/images/AFL_2021.png">
+<kbd> <img align="centre" style="border: 6px solid white" width="160" height="210" src="/images/AFL_2021.png"></kbd>
 
 
 **<i>Media</i>**
