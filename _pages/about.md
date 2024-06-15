@@ -280,7 +280,7 @@ Thank you for visiting my website. Feel free to delve into my work and reach out
   </head>
   <body>
     <div class="wrap-element">
-      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7207367288721670144" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7207367288721670144" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
   </body>
 </html>
