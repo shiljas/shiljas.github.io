@@ -21,7 +21,7 @@ My research interests also span to:
 <li> 3. Behavioural Finance </li>
 </ol>
 
-Thank you for visiting my website. Feel free to delve into my work and reach out to me if you have any questions or if you want to notify me about any open positions in your research team at [shiljas.phd1903@iimkashipur.ac.in](shiljas.phd1903@iimkashipur.ac.in).
+Thank you for visiting my website. Feel free to read my work and reach out to me if you have any questions or if you want to notify me about any open positions in your research team at [shiljas.phd1903@iimkashipur.ac.in](shiljas.phd1903@iimkashipur.ac.in).
 
 
 
