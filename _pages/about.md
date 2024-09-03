@@ -32,7 +32,7 @@ Thank you for visiting my website. Feel free to read my work and reach out to me
 <img align="centre" style="border: 12px solid white" width="160" height="210" src="/images/TE_2023.png">
 <img align="centre" width="160" height="210" src="https://ojs.aut.ac.nz/applied-finance-letters/public/journals/1/cover_issue_16_en_US.jpg">
 <img align="centre" style="border: 12px solid white" width="160" height="210" src="/images/AFL_2021.png">
-<img align="centre" width="160" height="210" src="https://doi.org/10.1002/bse.3908">
+<img align="centre" width="160" height="210" src="/images/BSE.png">
 <img align="centre" style="border: 12px solid white" width="160" height="210" src="/images/bse_2024.png">
 
 
