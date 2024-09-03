@@ -32,6 +32,9 @@ Thank you for visiting my website. Feel free to read my work and reach out to me
 <img align="centre" style="border: 12px solid white" width="160" height="210" src="/images/TE_2023.png">
 <img align="centre" width="160" height="210" src="https://ojs.aut.ac.nz/applied-finance-letters/public/journals/1/cover_issue_16_en_US.jpg">
 <img align="centre" style="border: 12px solid white" width="160" height="210" src="/images/AFL_2021.png">
+<img align="centre" width="160" height="210" src="https://doi.org/10.1002/bse.3908">
+<img align="centre" style="border: 12px solid white" width="160" height="210" src="/images/bse_2024.png">
+
 
 
 **<i>Media</i>**
@@ -316,6 +319,35 @@ Thank you for visiting my website. Feel free to read my work and reach out to me
 </html>
 
 * Business Strategy and the Environment [View the post](https://www.linkedin.com/posts/shiljas_corporate-sustainability-disclosures-activity-7221530543581016064-ZNTC?utm_source=share&utm_medium=member_desktop)
+
+
+<html>
+<head>
+    <title>Title of the document</title>
+    <style>
+      .wrap-element {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+      }
+      .wrapped-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap-element">
+      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7234179426769379329" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+  </body>
+</html>
+
+* Cash flow uncertainty, Firm life cycle and Sustainability disclosure [View the post](https://www.linkedin.com/posts/shiljas_the-interplay-of-cash-flow-uncertainty-and-activity-7234179427746660352-aggW?utm_source=share&utm_medium=member_desktop)
 
 
 
