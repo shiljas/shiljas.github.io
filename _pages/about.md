@@ -349,7 +349,33 @@ Thank you for visiting my website. Feel free to read my work and reach out to me
 
 * Cash flow uncertainty, Firm life cycle and Sustainability disclosure [View the post](https://www.linkedin.com/posts/shiljas_the-interplay-of-cash-flow-uncertainty-and-activity-7234179427746660352-aggW?utm_source=share&utm_medium=member_desktop)
 
+<html>
+<head>
+    <title>Title of the document</title>
+    <style>
+      .wrap-element {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+      }
+      .wrapped-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap-element">
+      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7259169584056815616" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+  </body>
+</html>
 
+* Nomination for Best Paper Award - Outsatnding PhD Dissertation Authors Category [View the post](https://www.linkedin.com/posts/shiljas_iimkashipur-corporate-sustainability-activity-7259169585659064320-rKLj?utm_source=share&utm_medium=member_desktop)
 
 * **Blog** [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
 
