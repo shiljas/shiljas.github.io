@@ -377,6 +377,37 @@ Thank you for visiting my website. Feel free to read my work and reach out to me
 
 * Nomination for Best Paper Award - Outstanding PhD Dissertation Authors Category [View the post](https://www.linkedin.com/posts/shiljas_iimkashipur-corporate-sustainability-activity-7259169585659064320-rKLj?utm_source=share&utm_medium=member_desktop)
 
+
+
+<html>
+<head>
+    <title>Title of the document</title>
+    <style>
+      .wrap-element {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+      }
+      .wrapped-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap-element">
+      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7262032266317443073" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+  </body>
+</html>
+
+* PRME UK & Ireland Chapter Business and Society Research Development Workshop [View the post](https://www.linkedin.com/posts/shiljas_the-fourth-prme-uk-ireland-chapter-research-activity-7262032266317443073-awKY?utm_source=share&utm_medium=member_desktop)
+
+ 
 * **Blog** [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
 
 
