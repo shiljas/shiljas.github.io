@@ -407,7 +407,62 @@ Thank you for visiting my website. Feel free to read my work and reach out to me
 
 * PRME UK & Ireland Chapter Business and Society Research Development Workshop [View the post](https://www.linkedin.com/posts/shiljas_the-fourth-prme-uk-ireland-chapter-research-activity-7262032266317443073-awKY?utm_source=share&utm_medium=member_desktop)
 
- 
+<html>
+<head>
+    <title>Title of the document</title>
+    <style>
+      .wrap-element {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+      }
+      .wrapped-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap-element">
+      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7268638814024151040" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+  </body>
+</html>
+
+* Research Insights: Knowledge Crafted by PhDs [View the post](https://www.linkedin.com/posts/iimkashipur_mba-iiminthenorth-iim-activity-7268638815420899329-vuik?utm_source=share&utm_medium=member_desktop)
+
+<html>
+<head>
+    <title>Title of the document</title>
+    <style>
+      .wrap-element {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+      }
+      .wrapped-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap-element">
+      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7269054563213545472" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+  </body>
+</html>
+
+* Award of conference support under the Outstanding PhD Dissertation-Based Paper by Qatar University, Qatar [View the post](https://www.linkedin.com/posts/shiljas_corporate-sustainability-disclosures-activity-7269054563213545472-iVz6?utm_source=share&utm_medium=member_desktop)
+
 * **Blog** [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
 
 
