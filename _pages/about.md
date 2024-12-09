@@ -461,7 +461,7 @@ Thank you for visiting my website. Feel free to read my work and reach out to me
   </body>
 </html>
 
-* Award of conference support under the Outstanding PhD Dissertation-Based Paper by Qatar University, Qatar [View the post](https://www.linkedin.com/posts/shiljas_corporate-sustainability-disclosures-activity-7269054563213545472-iVz6?utm_source=share&utm_medium=member_desktop)
+* Award of conference support for 'Outstanding PhD Dissertation-Based Paper' by Qatar University, Qatar [View the post](https://www.linkedin.com/posts/shiljas_corporate-sustainability-disclosures-activity-7269054563213545472-iVz6?utm_source=share&utm_medium=member_desktop)
 
 * **Blog** [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
 
