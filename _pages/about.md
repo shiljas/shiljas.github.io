@@ -463,6 +463,38 @@ Thank you for visiting my website. Feel free to read my work and reach out to me
 
 * Award of conference support for 'Outstanding PhD Dissertation-Based Paper' by Qatar University, Qatar [View the post](https://www.linkedin.com/posts/shiljas_corporate-sustainability-disclosures-activity-7269054563213545472-iVz6?utm_source=share&utm_medium=member_desktop)
 
+
+
+<html>
+<head>
+    <title>Title of the document</title>
+    <style>
+      .wrap-element {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+      }
+      .wrapped-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap-element">
+      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7274354365195296769" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+  </body>
+</html>
+
+* Does my idea make sense to a larger audience? [View the post](https://www.linkedin.com/posts/shiljas_sustainability-business-education-activity-7274354365195296769-wgrp?utm_source=share&utm_medium=member_desktop)
+
+
+
 * **Blog** [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
 
 
