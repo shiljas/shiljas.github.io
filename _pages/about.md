@@ -491,6 +491,35 @@ Thank you for visiting my website. Feel free to read my work and reach out to me
   </body>
 </html>
 
+* Outstanding PhD Dissertation-Based Paper Award [View the post](https://www.linkedin.com/posts/iimkashipur_iimkashipur-mba-iiminthenorth-activity-7282771343341768704-UNsM?utm_source=share&utm_medium=member_desktop)
+
+
+<html>
+<head>
+    <title>Title of the document</title>
+    <style>
+      .wrap-element {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+      }
+      .wrapped-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap-element">
+      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7282771343341768704" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+  </body>
+</html>
+
 * Does my idea make sense to a larger audience? [View the post](https://www.linkedin.com/posts/shiljas_sustainability-business-education-activity-7274354365195296769-wgrp?utm_source=share&utm_medium=member_desktop)
 
 
