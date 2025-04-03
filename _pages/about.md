@@ -525,7 +525,71 @@ Thank you for visiting my website. Feel free to read my work and reach out to me
 
 
 
+
+
+
+
+<html>
+<head>
+    <title>Title of the document</title>
+    <style>
+      .wrap-element {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+      }
+      .wrapped-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap-element">
+      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7308197390623117315?collapsed=1" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+  </body>
+</html>
+
+* 𝐨𝐧𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐁𝐞𝐬𝐭 𝐑𝐞𝐯𝐢𝐞𝐰𝐞𝐫𝐬 𝐨𝐟-2024 for the BRQ Business Research Quarterly journal [View the post](https://www.linkedin.com/posts/shiljas_iimkashipur-impact-activity-7308197391814299648-DHlE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACMC6XYBAhMHJrQ3VEEIRePH-ARhPBYIQdY)
+
+
+<html>
+<head>
+    <title>Title of the document</title>
+    <style>
+      .wrap-element {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+      }
+      .wrapped-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap-element">
+      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7309666524120694784?collapsed=1" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+  </body>
+</html>
+
+* 𝐖𝐚𝐧𝐭 𝐭𝐨 𝐰𝐫𝐢𝐭𝐞 𝐚 𝐰𝐢𝐧𝐧𝐢𝐧𝐠 𝐩𝐚𝐩𝐞𝐫? 𝐖𝐡𝐞𝐫𝐞’𝐬 𝐭𝐡𝐞 𝐠𝐫𝐞𝐚𝐭 𝐢𝐝𝐞𝐚? [View the post](https://www.linkedin.com/posts/shiljas_iimkashipur-whitmanschool-syracuseuniversity-activity-7309666527455100928-J0sp?utm_source=share&utm_medium=member_desktop&rcm=ACoAACMC6XYBAhMHJrQ3VEEIRePH-ARhPBYIQdY)
+
 * **Blog** [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
+
+
+
 
 
 
