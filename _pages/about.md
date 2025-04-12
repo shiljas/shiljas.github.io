@@ -523,12 +523,6 @@ Thank you for visiting my website. Feel free to read my work and reach out to me
 
 * Outstanding PhD Dissertation-Based Paper Award [View the post](https://www.linkedin.com/posts/iimkashipur_iimkashipur-mba-iiminthenorth-activity-7282771343341768704-UNsM?utm_source=share&utm_medium=member_desktop)
 
-
-
-
-
-
-
 <html>
 <head>
     <title>Title of the document</title>
@@ -586,10 +580,6 @@ Thank you for visiting my website. Feel free to read my work and reach out to me
 * 𝐖𝐚𝐧𝐭 𝐭𝐨 𝐰𝐫𝐢𝐭𝐞 𝐚 𝐰𝐢𝐧𝐧𝐢𝐧𝐠 𝐩𝐚𝐩𝐞𝐫? 𝐖𝐡𝐞𝐫𝐞’𝐬 𝐭𝐡𝐞 𝐠𝐫𝐞𝐚𝐭 𝐢𝐝𝐞𝐚? [View the post](https://www.linkedin.com/posts/shiljas_iimkashipur-whitmanschool-syracuseuniversity-activity-7309666527455100928-J0sp?utm_source=share&utm_medium=member_desktop&rcm=ACoAACMC6XYBAhMHJrQ3VEEIRePH-ARhPBYIQdY)
 
 * **Blog** [Tweets](https://iimkashipur.medium.com/nexus-between-twitter-based-sentiment-and-tourism-sector-performance-amid-covid-19-pandemic-8dd0a0e4fdd0) out of COVID-19 fear and tourism sector
-
-
-
-
 
 
 **<i>Recent Presentations</i>**
