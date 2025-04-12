@@ -573,10 +573,9 @@ Thank you for visiting my website. Feel free to read my work and reach out to me
   </head>
   <body>
     <div class="wrap-element">
-      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7309666524120694784" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+      <iframe class="wrapped-iframe" style="border: 12px Solid #007bb6" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7309666524120694784" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
   </body>
 </html>
-
 
 * 𝐖𝐚𝐧𝐭 𝐭𝐨 𝐰𝐫𝐢𝐭𝐞 𝐚 𝐰𝐢𝐧𝐧𝐢𝐧𝐠 𝐩𝐚𝐩𝐞𝐫? 𝐖𝐡𝐞𝐫𝐞’𝐬 𝐭𝐡𝐞 𝐠𝐫𝐞𝐚𝐭 𝐢𝐝𝐞𝐚? [View the post](https://www.linkedin.com/posts/shiljas_iimkashipur-whitmanschool-syracuseuniversity-activity-7309666527455100928-J0sp?utm_source=share&utm_medium=member_desktop&rcm=ACoAACMC6XYBAhMHJrQ3VEEIRePH-ARhPBYIQdY)
 
