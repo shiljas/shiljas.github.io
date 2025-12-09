@@ -9,6 +9,9 @@ date: 2024-08-19
 venue: 'Business Strategy and the Environment'
 slidesurl: 'https://doi.org/10.1002/bse.3908'
 paperurl: 'https://doi.org/10.1002/bse.3908'
-[pdf]({{https://shiljas.github.io/files/Shiljas_BSE1.pdf}})
 citation: 'Shiljas, K., & Kumar, D. (2024). The interplay of cash flow uncertainty and firm life cycle on sustainability disclosure. Business Strategy and the Environment.'
 ---
+<iframe
+  src="https://shiljas.github.io/files/Shiljas_BSE1.pdf"
+  style="width: 100%; height: 600px; border: none;"
+></iframe>
