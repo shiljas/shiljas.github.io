@@ -10,15 +10,16 @@ redirect_from:
 
 <style> body {text-align: justify} </style>
 
-Greetings! Welcome to my website. I’m a final year doctoral student in finance and accounting area at the [Indian Institute of Management Kashipur]( https://www.iimkashipur.ac.in), working under the guidance of [Professor Dilip Kumar](https://scholar.google.com/citations?user=N8y4jzMAAAAJ&hl=en). I am also a recipient of the **<u>Junior Research Fellowship (JRF)</u>** in Commerce, granted by the University Grants Commission (UGC) - Government of India in 2018. In my doctoral thesis, I am examining the intricacies of corporate sustainability engagements. Recently, I had the opportunity to present one of the essays from my doctoral thesis at the online Paper Development Workshop conducted by [Birbeck Business School - University of London](https://www.bbk.ac.uk/school/business), where the paper received the **<u>Best Full Paper Award</u>**. 
+Greetings! Welcome to my website. I’m a Post doctoral researcher in finance at College of Business and Economics, [United Arab Emirates University](https://www.uaeu.ac.ae/en/cbe/), UAE. I hold a PhD (Finance) from [Indian Institute of Management Kashipur]( https://www.iimkashipur.ac.in),India, under the guidance of [Professor Dilip Kumar](https://scholar.google.com/citations?user=N8y4jzMAAAAJ&hl=en). I am also a recipient of the **<u>Junior Research Fellowship (JRF)</u>** in Commerce, granted by the University Grants Commission (UGC) - Government of India in 2018. In my doctoral thesis, I am examining the intricacies of corporate sustainability engagements. During the doctoral program, I had the opportunity to present one of the essays from my doctoral thesis at the online Paper Development Workshop conducted by [Birbeck Business School - University of London](https://www.bbk.ac.uk/school/business), where the paper received the **<u>Best Full Paper Award</u>**. I am also a receipeint of **<u>Outstanding PhD Dissertation-Based Paper Award</u>** in the International Conference on Entrepreneurship for Sustainability and Impact (ESI)- November 2024 organised by Qatar University, Qatar.
 
-I am also associated with [University of Bath School of Management](https://www.bath.ac.uk/schools/school-of-management) as a part of the **<u>GEAR Programme</u>**.
+I also one of the few selected paticipants across LMI economies (less than 20 out of 50+ applicants) who were selected to receive mentorship from [University of Bath School of Management](https://www.bath.ac.uk/schools/school-of-management) as a part of the **<u>GEAR Programme</u>** in 2024.
 
 My research interests also span to:
 <ol>
-<li> 1. Socially responsible investing </li>
+<li> 1. Biodiversity finance </li>
+<li> 2. Corporate disclosures </li>
 <li> 2. Accounting practices </li>
-<li> 3. Behavioural Finance </li>
+<li> 3. Organisational internal structure </li>
 </ol>
 
 Thank you for visiting my website. Feel free to read my work and reach out to me if you have any questions or if you want to notify me about any open positions in your research team at [shiljas.phd1903@iimkashipur.ac.in](shiljas.phd1903@iimkashipur.ac.in).
